@@ -1,0 +1,1 @@
+{"root":["./src/fetchtopholders.ts","./src/identifyprotocol.ts","./src/index.ts","./src/monitortransactions.ts","./src/solana.ts","./src/config/data-source.ts","./src/config/protocols.ts","./src/entities/transaction.ts","./src/entities/walletholder.ts","./src/routes/stats.routes.ts","./src/routes/transactions.routes.ts"],"errors":true,"version":"5.8.3"}
